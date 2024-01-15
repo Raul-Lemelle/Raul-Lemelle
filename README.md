@@ -1,4 +1,3 @@
-<h1 align="center">Olá, eu sou Raul Lemelle</h1>
 - Atualmente estou estudando Python, SQL, Power BI para Análise de Dados.
 
 - Você pode me achar **raullemelle@gmail.com**
