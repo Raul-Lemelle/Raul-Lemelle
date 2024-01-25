@@ -2,7 +2,7 @@
 
 - Você pode me achar **raullemelle@gmail.com**
 
-- Conheça minhas experiências [www.linkedin.com/in/raul-lemelle](www.linkedin.com/in/raul-lemelle)
+- Conheça minhas experiências **[www.linkedin.com/in/raul-lemelle](www.linkedin.com/in/raul-lemelle)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
