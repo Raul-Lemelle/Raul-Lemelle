@@ -1,4 +1,4 @@
-- Atualmente estou estudando Python, SQL, Power BI para Análise de Dados.
+- Estudante de Engenharia de Software, Analista de Dados | Python | SQL | AWS |Power BI | JavaScript | Node.js
 
 - Você pode me achar **raullemelle@gmail.com**
 
