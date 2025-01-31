@@ -1,6 +1,6 @@
 If it’s not AI, I can’t see a future in what we’re doing... unless we’re all becoming professional coffee makers! ☕🤖
 
-- Engenharia de Software - Analista de Dados - Consultor de Processos | Python | SQL | AWS |Power BI | JavaScript | Node.js
+- Engenharia de Software - Analista de Dados - Consultor de Processos | Python | SQL | AWS | Azure | BI | JavaScript | Node.js
 
 - Você pode me achar **raullemelle@gmail.com**
 
